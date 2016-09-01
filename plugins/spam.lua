@@ -8,6 +8,7 @@ if matches[1] == 'sp' and is_admin(msg) then
             send_large_msg(receiver, text)
         end
 end
+end
  
 return {
   patterns = {
