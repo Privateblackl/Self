@@ -216,6 +216,7 @@ function create_config( )
     "spam",
     "spam2",
     "spam3",
+"inrealms",
     "supergroup"
     },
     sudo_users = {255317894},--Sudo users
