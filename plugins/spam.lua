@@ -6,7 +6,6 @@ local function run(msg, matches)
         for i=1,num do
             send_large_msg(receiver, text)
         end
-  end
 end
  
 return {
